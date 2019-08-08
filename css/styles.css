@@ -22,8 +22,11 @@ nav{
     text-indent: 50px;
     padding: 10px;
     margin-left: 10px !important;
-    text-justify: inter-word; text-align: center;
+    text-justify: inter-word; 
 }
 h4{
     color: #d17c39;
+}
+p{
+   text-align: center; 
 }
